@@ -7,7 +7,7 @@
     "start": "webpack-dev-server",
     "prod": "webpack -p"
   },
-  "author": "Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
+  "author": "Goran M by Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
   "license": "ISC",
   "dependencies": {
     "raven-js": "^3.3.0",
